@@ -1,0 +1,53 @@
+manifesto:
+ controles remotos:
+    - nome: zmkfirmware
+ base de URL: https://github.com/zmkfirmware
+  #additional módulo
+    - nome: petejohanson
+ base de URL: https://github.com/petejohanson
+    - nome: olho de gpe
+ base de URL: https://github.com/GPeye
+    - nome: mctecnologia17
+ base de URL: https://github.com/mctechnology17
+    - nome: kevinspastor
+ base de URL: https://github.com/kevinpastor
+    - nome: m165437
+ base de URL: https://github.com/M165437
+    - nome: s6t
+ base de URL: https://github.com/s6t
+    - nome: infielmente
+ base de URL: https://github.com/infely
+    - nome: pinguim
+ base de URL: https://github.com/penguinchat
+ projetos:
+    - nome: zmk
+ remoto: zmkfirmware
+ revisão: v0,3
+ importar: aplicativo/oeste.yml
+  #additional módulo
+    - nome: apresentação de slides do Hammerbeam
+ remoto: olho de gpe
+ revisão: principal
+    - nome: zmk-bom-olado
+ remoto: mctecnologia17
+ revisão: principal
+    - nome: belo-visualizar-elementar
+ remoto: kevinspastor
+ revisão: principal
+    - nome: bela vista-gema
+ remoto: m165437
+ revisão: principal
+    - nome: zmk-shield-bela-visão-gatos
+ remoto: s6t
+ revisão: principal
+    - nome: bateria de boa visualização
+ remoto: infielmente
+ revisão: principal
+    - nome: tela zmk-dongle
+ remoto: pinguim
+ revisão: Patch-de-penguinchat-1
+    - nome: zmk-para-PandaKB.com-
+ remoto: pinguim
+ revisão: PandaKB_Lily58
+ eu:
+ caminho: configurar
