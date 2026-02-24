@@ -1,0 +1,93 @@
+{
+  "id": "Sofle_dongle",
+  "nome": "Sofle_dongle",
+  "layouts": {
+    "transformação_padrão": {
+      "nome": "transformação_padrão",
+      "layout": [
+        { "linha": 0, "coluna":  0, "r":   0, "x":     0, "y":  0,6 },
+        { "linha": 0, "coluna":  1, "r":   0, "x":     1, "y":  0,6 },
+        { "linha": 0, "coluna":  2, "r":   0, "x":     2, "y": 0,13 },
+        { "linha": 0, "coluna":  3, "r":   0, "x":     3, "y":    0 },
+        { "linha": 0, "coluna":  4, "r":   0, "x":     4, "y": 0,13 },
+        { "linha": 0, "coluna":  5, "r":   0, "x":     5, "y": 0,26 },
+        { "linha": 0, "coluna":  9, "r":   0, "x":  9.51, "y": 0,26 },
+        { "linha": 0, "coluna": 10, "r":   0, "x": 10h51, "y": 0,13 },
+        { "linha": 0, "coluna": 11, "r":   0, "x": 11h51, "y":    0 },
+        { "linha": 0, "coluna": 12, "r":   0, "x": 12h51, "y": 0,13 },
+        { "linha": 0, "coluna": 13, "r":   0, "x": 13.51, "y":  0,6 },
+        { "linha": 0, "coluna": 14, "r":   0, "x": 14.51, "y":  0,6 },
+
+        { "linha": 1, "coluna":  0, "r":   0, "x":     0, "y":  1.6 },
+        { "linha": 1, "coluna":  1, "r":   0, "x":     1, "y":  1.6 },
+        { "linha": 1, "coluna":  2, "r":   0, "x":     2, "y": 1.13 },
+        { "linha": 1, "coluna":  3, "r":   0, "x":     3, "y":    1 },
+        { "linha": 1, "coluna":  4, "r":   0, "x":     4, "y": 1.14 },
+        { "linha": 1, "coluna":  5, "r":   0, "x":     5, "y": 1.27 },
+        { "linha": 1, "coluna":  9, "r":   0, "x":  9.51, "y": 1.27 },
+        { "linha": 1, "coluna": 10, "r":   0, "x": 10h51, "y": 1.14 },
+        { "linha": 1, "coluna": 11, "r":   0, "x": 11h51, "y":    1 },
+        { "linha": 1, "coluna": 12, "r":   0, "x": 12h51, "y": 1.13 },
+        { "linha": 1, "coluna": 13, "r":   0, "x": 13.51, "y":  1.6 },
+        { "linha": 1, "coluna": 14, "r":   0, "x": 14.51, "y":  1.6 },
+
+        { "linha": 2, "coluna":  0, "r":   0, "x":     0, "y": 2.61 },
+        { "linha": 2, "coluna":  1, "r":   0, "x":     1, "y": 2.61 },
+        { "linha": 2, "coluna":  2, "r":   0, "x":     2, "y": 2.14 },
+        { "linha": 2, "coluna":  3, "r":   0, "x":     3, "y": 2.01 },
+        { "linha": 2, "coluna":  4, "r":   0, "x":     4, "y": 2.14 },
+        { "linha": 2, "coluna":  5, "r":   0, "x":     5, "y": 2.27 },
+        { "linha": 2, "coluna":  9, "r":   0, "x":  9.51, "y": 2.27 },
+        { "linha": 2, "coluna": 10, "r":   0, "x": 10h51, "y": 2.14 },
+        { "linha": 2, "coluna": 11, "r":   0, "x": 11h51, "y": 2.01 },
+        { "linha": 2, "coluna": 12, "r":   0, "x": 12h51, "y": 2.14 },
+        { "linha": 2, "coluna": 13, "r":   0, "x": 13.51, "y": 2.61 },
+        { "linha": 2, "coluna": 14, "r":   0, "x": 14.51, "y": 2.61 },
+
+        { "linha": 3, "coluna":  0, "r":   0, "x":     0, "y": 3.61 },
+        { "linha": 3, "coluna":  1, "r":   0, "x":     1, "y": 3.61 },
+        { "linha": 3, "coluna":  2, "r":   0, "x":     2, "y": 3.14 },
+        { "linha": 3, "coluna":  3, "r":   0, "x":     3, "y": 3.01 },
+        { "linha": 3, "coluna":  4, "r":   0, "x":     4, "y": 3.14 },
+        { "linha": 3, "coluna":  5, "r":   0, "x":     5, "y": 3.27 },
+        { "linha": 3, "coluna":  6, "r":   0, "x":  6.12, "y": 3.24 },
+        { "linha": 3, "coluna":  8, "r":   0, "x":  8.39, "y": 3.24 },
+        { "linha": 3, "coluna":  9, "r":   0, "x":  9.51, "y": 3.27 },
+        { "linha": 3, "coluna": 10, "r":   0, "x": 10h51, "y": 3.14 },
+        { "linha": 3, "coluna": 11, "r":   0, "x": 11h51, "y": 3.01 },
+        { "linha": 3, "coluna": 12, "r":   0, "x": 12h51, "y": 3.14 },
+        { "linha": 3, "coluna": 13, "r":   0, "x": 13.51, "y": 3.61 },
+        { "linha": 3, "coluna": 14, "r":   0, "x": 14.51, "y": 3.61 },
+
+        { "linha": 4, "coluna":  2, "r":   0, "x":     2, "y": 4.14 },
+        { "linha": 4, "coluna":  3, "r":   0, "x":     3, "y": 4.01 },
+        { "linha": 4, "coluna":  4, "r":   0, "x":     4, "y": 4.15 },
+        { "linha": 4, "coluna":  5, "r":  23, "x":  5.16, "y": 4.39, "rx": 5,66, "ry": 4,89 },
+        { "linha": 4, "coluna":  6, "r": 30, "x":  6.26, "y": 4.40, "rx": 6,76, "ry": 5.15, "h": 1,5 },
+        { "linha": 4, "coluna":  8, "r":  -30, "x":  8.26, "y": 4.40, "rx": 8,76, "ry": 5.15, "h": 1,5 },
+        { "linha": 4, "coluna":  9, "r": -23, "x":  9h36, "y": 4.39, "rx": 9,86, "ry": 4,89 },
+        { "linha": 4, "coluna": 10, "r":   0, "x": 10h51, "y": 4.15 },
+        { "linha": 4, "coluna": 11, "r":   0, "x": 11h51, "y": 4.01 },
+        { "linha": 4, "coluna": 12, "r":   0, "x": 12h51, "y": 4.14 }
+      ]
+    }
+  },
+  "sensores": [
+    {
+      "ref": "codificador_esquerdo",
+      "nome": "codificador_esquerda",
+      "identificador": "codificador_esquerda",
+      "compatível": "alpes,ec11",
+      "rótulo": "CODIFICADOR_ESQUERDO",
+      "habilitado": falso
+    },
+    {
+      "ref": "codificador_direito",
+      "nome": "codificador_direito",
+      "identificador": "codificador_direito",
+      "compatível": "alpes,ec11",
+      "rótulo": "CODIFICADOR_DIREITO",
+      "habilitado": falso
+    }
+  ]
+}
